@@ -41,7 +41,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 let bots = false;
 const { 
-	nela, 
+	smd, 
 	botpic,
 	send,
 	Config, 
